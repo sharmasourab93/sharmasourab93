@@ -7,7 +7,7 @@ A Software Engineer who has spent about 5 years in building scalable backend sol
 - 🌱 I'm currently learning advanced: [Data Structures & Algorithms](https://github.com/sharmasourab93/CodeDaily), [Design Patterns in Python](https://github.com/sharmasourab93/PythonDesignPatterns) 
 - 🌱 I'm currently exploring DevOps tools like Docker, Kubernetes, Jenkins, Ansible & ELK
 -  ⚡  I write on Technical topics on: [Blogs On Computer Science](https://sharmasourab93.blogspot.com/)
-- 💬 Ask me about: **Python**, **Flask**, **Data Structures & Algorithms**, **Design Patterns** or **Interview Preps**.
+- 💬 Ask me about: **Python**, **Flask**, **Data Structures & Algorithms** or **Design Patterns**.
 - 📫 How to reach me: [Mail](mailto:sharmasourab93@gmail.com?Subject=Hey!Sourab), [LinkedIn](https://www.linkedin.com/in/sourab-s-11998768/)
 
 Looking forward to build projects to experience a broad range of technical challenges and discovering solutions to them.
