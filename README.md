@@ -1,6 +1,6 @@
 ### Hey 👋 I'm Sourab
 
-A Software Engineer who has spent about 5 years in building scalable backend solutions for [Ericsson](https://www.ericsson.com/en), [CenturyLink](https://www.centurylink.com/) and now for [Danske Bank](https://danskebank.com/).
+A Software Engineer who has spent about 7 years in building scalable backend solutions and currently working for [AB-InBev](https://www.ab-inbev.com/)
 
 
 - 🔭 I'm currently Working On A Django Project [CopyCat](https://github.com/sharmasourab93/CopyCat)
