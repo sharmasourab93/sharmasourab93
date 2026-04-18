@@ -1,9 +1,9 @@
 ### Hey 👋 I'm Sourab
 
-A Software Engineer who has spent about 9 years in building scalable backend solutions and currently working for [AB-InBev](https://www.ab-inbev.com/)
+I am a Lead Software Developer with 10+ years of experience building and scaling data-intensive backend systems, internal platforms, and AI/ML-enabled products. I specialize in Python-based backend engineering, system design, cloud-native architecture, and data-heavy product development.
 
--  ⚡  I write on Technical topics on: [Blogs On Computer Science](https://sharmasourab93.blogspot.com/)
-- 💬 Ask me about: **Python**, **Flask**, **Data Structures & Algorithms** or **Design Patterns**.
-- 📫 How to reach me: [Mail](mailto:sharmasourab93@gmail.com?Subject=Hey!Sourab), [LinkedIn](https://www.linkedin.com/in/sourab-s-11998768/)
+I have experience working on analytics platforms, model execution systems, business-critical backend services and decision-support products across Manufacturing, CPG, and Financial Services.
 
-Looking forward to build projects to experience a broad range of technical challenges and discovering solutions to them.
+My strengths are backend architecture, platform design, engineering execution, and translating complex business problems into scalable technical systems, with growing focus on AI-driven product engineering.
+
+📫 How to reach me: [Mail](mailto:sharmasourab93@gmail.com?Subject=Hey!Sourab), [LinkedIn](https://www.linkedin.com/in/sharmasourab93/)
