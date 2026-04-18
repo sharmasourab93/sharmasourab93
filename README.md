@@ -1,6 +1,6 @@
 ### Hey 👋 I'm Sourab
 
-I am a Lead Software Developer with 10+ years of experience building and scaling data-intensive backend systems, internal platforms, and AI/ML-enabled products. I specialize in Python-based backend engineering, system design, cloud-native architecture, and data-heavy product development.
+I am a Lead Software Developer at [Caterpillar Inc.](https://www.caterpillar.com/) \([NYSE:CAT](https://www.nyse.com/quote/XNYS:CAT)\) with 10+ years of experience building and scaling data-intensive backend systems, internal platforms, and AI/ML-enabled products. I specialize in Python-based backend engineering, system design, cloud-native architecture, and data-heavy product development.
 
 I have experience working on analytics platforms, model execution systems, business-critical backend services and decision-support products across Manufacturing, CPG, and Financial Services.
 
